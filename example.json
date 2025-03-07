@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "source": "sensor_network_23",
+    "generated_at": "2025-03-07T12:00:00Z",
+    "units": {
+      "temperature": "Celsius",
+      "humidity": "%",
+      "vibration": "Hz"
+    }
+  },
+  "data": [
+    { "sensor_id": "A1", "temperature": 22.5, "humidity": 45.2, "vibration": 10.4 },
+    { "sensor_id": "A2", "temperature": 21.8, "humidity": 50.1, "vibration": 9.8 },
+    { "sensor_id": "A3", "temperature": 23.3, "humidity": 47.7, "vibration": 11.2 },
+    { "sensor_id": "A4", "temperature": 22.0, "humidity": 46.5, "vibration": 10.1 },
+    { "sensor_id": "A5", "temperature": 21.5, "humidity": 49.0, "vibration": 9.5 }
+  ]
+}
